@@ -6,5 +6,6 @@ Funcionalidades:
 - Organização visual de elementos
 
 Ferramentas utilizadas:
--HTML
--CSS
+- HTML
+- CSS
+
